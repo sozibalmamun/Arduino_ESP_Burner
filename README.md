@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    <img src="Docs/Static_image/bottom.png" width="auto" height="auto" alt="BOTTOM BOARD">
+    <img src="Docs/Static_image/bottom_qrcode.png" width="auto" height="auto" alt="BOTTOM BOARD">
 </p>
 
 
