@@ -1,8 +1,9 @@
 # Arduino_ESP_Burner
 
 <p align="center">
-    <img src="docs/_static/banner2.jpg" width="auto" height="auto" alt="ESPRESSIF">
+    <img src="Docs\Static_image" width="auto" height="auto" alt="ESPRESSIF">
 </p>
+
 
 * [中文版本](README_cn.md)
 * [Promotional Video](https://www.youtube.com/watch?v=KGVOi1Mrjb0)
