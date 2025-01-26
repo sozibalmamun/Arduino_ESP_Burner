@@ -5,4 +5,10 @@
 </p>
 
 
+<p align="center">
+    <img src="Docs/Static_image/bottom.png" width="auto" height="auto" alt="BOTTOM BOARD">
+</p>
+
+
+
 
