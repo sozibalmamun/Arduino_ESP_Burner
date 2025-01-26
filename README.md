@@ -1,7 +1,7 @@
 # Arduino_ESP_Burner
 
 <p align="center">
-    <img src="Docs\Static_image" width="auto" height="auto" alt="ESPRESSIF">
+    <img src="Docs/Static_image/Image_20250126144648.png" width="auto" height="auto" alt="ESPRESSIF">
 </p>
 
 
